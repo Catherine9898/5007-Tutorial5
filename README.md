@@ -64,7 +64,7 @@ screen mongod
 apt install git
 ```
 ```
-git clone https://github.com
+git clone https://github.com/Catherine9898/5007-Tutorial5.git
 ```
 
 ## Part II : Commands 
